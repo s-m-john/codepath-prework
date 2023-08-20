@@ -4,7 +4,7 @@ Submitted by: **Sophia John**
 
 **IOS101-Prework** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **14** hours spent in total
 
 ## Required Features
 
@@ -45,6 +45,8 @@ An app that I would like to work on is a Geography Quiz App that tests users on 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I am familiar with GitHub but I don't use GitHub Desktop so what have taken minutes to complete took me much longer to troubleshoot. I'm not sure what went wrong but I was eventually able to fix it.
 
 ## License
 
