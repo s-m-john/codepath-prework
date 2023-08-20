@@ -4,7 +4,7 @@ Submitted by: **Sophia John**
 
 **IOS101-Prework** is an app that... [TODO] 
 
-Time spent: **14** hours spent in total
+Time spent: **17** hours spent in total
 
 ## Required Features
 
