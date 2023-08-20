@@ -28,6 +28,20 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+App: Notes
+Easy to use
+Ordered by previous 7 Days, 30 Days and then months
+
+App: Slack
+Workspaces are ordered and it is easy to swipe though to see ehat's new
+Control notifications
+
+App: DuoLingo
+A new favorite because it easy to use
+Makes learning fun and accessible.
+
+An app that I would like to work on is a Geography Quiz App that tests users on States and their capitals and another level wou; be international testing for countries and their capitals using RestCountries API. I think this would be a great project for K-12 students or anyone interested in brushing up on their knowledge. One feature would be team quizzes where groups can compete to see who answers the most correct in a certain time.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
