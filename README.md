@@ -26,8 +26,7 @@ GIF created with ...  imgur
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-## https://imgur.com/a/bo6i0Na
-https://imgur.com/a/bo6i0Na
+## https://imgur.com/a/bo6i0Na.gif
 
 ## App Brainstorming (Step 4)
 
