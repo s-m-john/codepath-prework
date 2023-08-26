@@ -15,6 +15,7 @@ class ViewController: UIViewController {
     }
 
     @IBAction func changeBackgroundColor(_ sender: UIButton) {
+        sender.backgroundColor = changeColor()
     }
     func changeColor() -> UIColor{
         
